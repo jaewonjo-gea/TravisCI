@@ -3,3 +3,4 @@ compiler: clang
 
 script:
 - make hello.c
+- hello
