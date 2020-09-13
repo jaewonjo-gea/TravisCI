@@ -2,5 +2,5 @@ language: c
 compiler: clang
 
 script:
-- make hello.c
+- make hello
 - ./hello
